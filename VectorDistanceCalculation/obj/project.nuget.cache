@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Chq7TIJtGrRX8ztPHVSQ+SR2DrblIuCAyfOLpiSh87x4CG8Ks4WKeUhV4zmz7avGvB/gygnc0qBt5Gtnp9Sxbg==",
+  "success": true,
+  "projectFilePath": "F:\\Everything_Code\\REPO\\PORTFOLIO-OF-PROJECTS\\PROJECTS\\VectorDistanceCalculation\\VectorDistanceCalculation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\silco\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\silco\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\silco\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
